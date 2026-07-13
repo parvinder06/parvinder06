@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1F3864&fontColor=CAFF3C&text=%3E_%20Parvinder%20Kaur&fontSize=38&animation=fadeIn&height=200" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1F3864&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+React+Native+Mobile+Developer;%24+experience+%E2%86%92+8%2B+years+shipping+cross-platform+apps;%24+cat+open-to.txt+%E2%86%92+Mobile+Developer+roles+in+Dubai%2C+UAE;%24+status+%E2%86%92+Open+to+relocation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1F3864&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+React+Native+Mobile+Developer;%24+experience+%E2%86%92+8%2B+years+shipping+cross-platform+apps;%24+cat+open-to.txt+%E2%86%92+Mobile+Developer+roles;%24+status+%E2%86%92+Open+to+relocation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F3864?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parvinder-kaur-ba7132142)
 [![Email](https://img.shields.io/badge/Email-Contact-1F3864?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Parvinderkaurvirk06@gmail.com)
@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-React Native Mobile Developer with 8+ years building and shipping cross-platform iOS and Android apps — workplace-management, fintech, social, and education domains, including a live UAE-market app. Currently based in India, open to relocating to Dubai.
+React Native Mobile Developer with 8+ years building and shipping cross-platform iOS and Android apps — workplace-management, fintech, social, and education domains, including a live UAE-market app. Currently based in India, open to relocation.
 
 ```bash
 $ cat .profile
