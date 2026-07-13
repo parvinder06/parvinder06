@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1F3864&fontColor=CAFF3C&text=%3E_%20Parvinder%20Kaur&fontSize=38&desc=React+Native+Mobile+Developer&descColor=E8F5E1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1F3864&fontColor=CAFF3C&text=%3E_%20Parvinder%20Kaur&fontSize=38&animation=fadeIn&height=200" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1F3864&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+React+Native+Mobile+Developer;%24+experience+%E2%86%92+8%2B+years+shipping+cross-platform+apps;%24+cat+open-to.txt+%E2%86%92+Mobile+Developer+roles+in+Dubai%2C+UAE;%24+status+%E2%86%92+Open+to+relocation" />
 
