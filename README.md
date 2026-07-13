@@ -23,7 +23,7 @@ ROLE     =  React Native Mobile Developer
 EXP      =  8+ years
 DOMAIN   =  Workplace Tech  |  Fintech  |  Social  |  EdTech
 STACK    =  React Native  |  JavaScript  |  Redux  |  Kotlin  |  Java
-OPEN_TO  =  Mobile Developer roles — Dubai, UAE
+OPEN_TO  =  Mobile Developer roles — open to relocation
 ```
 
 ---
