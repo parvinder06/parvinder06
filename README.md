@@ -152,7 +152,7 @@ building:
   - Exploring personal React Native side-projects to showcase alongside company work
 
 open_to:
-  - React Native Developer roles in Dubai, UAE
+  - React Native Developer roles, open to relocation
   - Cross-platform mobile roles, enterprise or fintech domain
 ```
 
