@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F3864?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parvinder-kaur-ba7132142)
 [![Email](https://img.shields.io/badge/Email-Contact-1F3864?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Parvinderkaurvirk06@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Dubai%2C%20UAE%20(open%20to)-1F3864?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Open%20to%20Relocation-1F3864?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
